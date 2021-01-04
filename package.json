@@ -1,6 +1,7 @@
 {
   "name": "@kichiyaki/roboto",
   "version": "1.0.0",
+  "private": false,
   "description": "Roboto typeface",
   "main": "index.css",
   "keywords": [
