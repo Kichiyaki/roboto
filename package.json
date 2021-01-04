@@ -1,0 +1,16 @@
+{
+  "name": "@kichiyaki/roboto",
+  "version": "1.0.0",
+  "description": "Roboto typeface",
+  "main": "index.css",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "roboto"
+  ],
+  "author": "Dawid Wysokiński <dawidywsokinski000@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/Kichiyaki/roboto"
+}
