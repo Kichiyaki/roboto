@@ -13,5 +13,8 @@
   ],
   "author": "Dawid Wysokiński <dawidywsokinski000@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/Kichiyaki/roboto"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kichiyaki/roboto"
+  }
 }
